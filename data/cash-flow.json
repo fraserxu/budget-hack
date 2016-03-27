@@ -1,0 +1,46 @@
+{
+"nodes":[
+{"node":0,"name":"Net cash flows from operating activities(e)"},
+
+{"node":1,"name":"Net cash flows"},
+{"node":2,"name":"Cash flows"},
+
+{"node":3,"name":"Taxes received"},
+{"node":4,"name":"Grants"},
+{"node":5,"name":"Sales of goods and services(c)"},
+{"node":6,"name":"Interest received(d)"},
+{"node":7,"name":"Dividends and income tax and rate equivalents receipts(e)"},
+{"node":8,"name":"Other receipts(d)(f)(g)"},
+
+{"node":9,"name":"Payments for employees"},
+{"node":10,"name":"Superannuation"},
+{"node":11,"name":"Interest paid"},
+{"node":12,"name":"Grants and subsidies(g)"},
+{"node":13,"name":"Goods and services(c)(h)"},
+{"node":14,"name":"Other payments"}
+],
+"links":[
+{"source":0,"target":1,"value": 3754.9},
+
+{"source":3,"target":2,"value": 19007.3},
+{"source":4,"target":2,"value": 25668.3},
+{"source":5,"target":2,"value": 7531.3},
+{"source":6,"target":2,"value": 811.8},
+{"source":7,"target":2,"value": 1143.5},
+{"source":8,"target":2,"value": 1741.4},
+
+{"source":1,"target":9,"value": 19657.1},
+{"source":1,"target":10,"value": 2969.0},
+{"source":1,"target":11,"value": 2058.6},
+{"source":1,"target":12,"value": 8748.0},
+{"source":1,"target":13,"value": 18055.5},
+{"source":1,"target":14,"value": 660.5},
+
+{"source":2,"target":9,"value": 19657.1},
+{"source":2,"target":10,"value": 2969.0},
+{"source":2,"target":11,"value": 2058.6},
+{"source":2,"target":12,"value": 8748.0},
+{"source":2,"target":13,"value": 18055.5},
+{"source":2,"target":14,"value": 660.5}
+
+]}
