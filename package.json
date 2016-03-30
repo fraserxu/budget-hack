@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "standard",
-    "start": "wzrd index.js:bundle.js",
+    "start": "wzrd index.js:bundle.js -- -t csjs-injectify",
     "build": "browserify index.js -o bundle.js",
     "deploy": "./publish.sh"
   },
@@ -22,10 +22,13 @@
   "dependencies": {
     "autocomplete-element": "^1.0.7",
     "base-router": "^1.1.0",
+    "csjs": "^1.0.1",
+    "csjs-injectify": "^1.0.0",
     "d3": "^3.5.16",
     "d3-sankey": "^0.2.1",
     "on-load": "^2.0.0",
     "sheet-router": "^2.0.3",
+    "store-emitter": "^2.2.0",
     "yo-yo": "^1.1.1"
   },
   "devDependencies": {

@@ -5,7 +5,7 @@ var homePage = require('./pages/homePage')
 var visPage = require('./pages/visPage')
 
 var element = yo`<div></div>`
-document.body.appendChild(element)
+document.querySelector('#wrapper').appendChild(element)
 
 var router = createRouter({
   '/': homePage,

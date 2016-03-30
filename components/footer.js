@@ -1,30 +1,35 @@
 var yo = require('yo-yo')
 var csjs = require('csjs')
 
-module.exports = function Header () {
-  return yo`<header class="${styles.header}">
+module.exports = function Footer () {
+  return yo`<footer class="${styles.footer}">
     <div class="${styles.container}">
-      <div class="${styles.logo}">
-        <a href='#/'>Open Budget: Victoria</a>
+      <div class="${styles.description}">
+        <p>Open Budget: Victoria is an open-source project by OpenVictoria to help citizens better understand Victoria's spending and budget process.</p>
       </div>
       <nav>
         <ul>
-          <li class="${styles.list}"><a href='#/'>Home</a></li>
+          <li class="${styles.list}"><a href='https://github.com/fraserxu/budget-hack'>Github</a></li>
           <li class="${styles.list}"><a href='#/vis'>Visualization</a></li>
         </ul>
       </nav>
     </div>
-  </header>`
+  </footer>`
 }
 
 var styles = module.exports.styles = csjs`
-  .header {
-    min-height: 50px;
-    border: 1px solid transparent;
-    top: 0;
-    border-width: 0 0 1px;
-    background-color: #f9f9f9;
-    border-color: #e8e8e8;
+  .footer {
+    border-top: 1px solid #eeeeee;
+    padding-top: 20px;
+    background-color: #fbfbfb;
+    color: #777777;
+    min-height: 150px;
+
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
   }
 
   .container {
@@ -39,16 +44,10 @@ var styles = module.exports.styles = csjs`
     align-items: center;
   }
 
-  .logo {
+  .description {
     padding: 15px 15px;
-    font-size: 18px;
     line-height: 20px;
     height: 50px;
-  }
-
-  .logo a {
-    color: #555;
-    text-decoration: none;
   }
 
   .list {

@@ -8,7 +8,6 @@ body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  background-color: #f8f8f6;
 }
 
 * {
@@ -20,23 +19,14 @@ a {
   color: #225378;
 }
 
-header {
-  text-align: center;
-  padding: 10px 20px;
+#wrapper {
+  min-height: 100%;
+  position: relative;
 }
 
 main {
   max-width: 970px;
   margin: 0 auto;
-}
-
-
-footer {
-  padding-bottom: 20px;
-}
-
-footer p {
-  font-size: 14px;
 }
 
 ul {
