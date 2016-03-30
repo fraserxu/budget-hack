@@ -20,15 +20,16 @@ a {
   color: #225378;
 }
 
+header {
+  text-align: center;
+  padding: 10px 20px;
+}
+
 main {
   max-width: 970px;
   margin: 0 auto;
 }
 
-header {
-  text-align: center;
-  padding: 10px 20px;
-}
 
 footer {
   padding-bottom: 20px;

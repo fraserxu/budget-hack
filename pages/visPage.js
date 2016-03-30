@@ -1,6 +1,7 @@
 var yo = require('yo-yo')
 var onload = require('on-load')
 
+var Header = require('../components/header')
 var createChart = require('../components/sankey')
 
 module.exports = function homePage () {
@@ -9,13 +10,14 @@ module.exports = function homePage () {
 
   onload(chartContainer, function () {
     createChart('#chart')
-  }, function () {
-    console.log('on unload...')
   })
 
-  return yo`<div id='chart'>
-    visualization page
-    ${chartContainer}
+  return yo`<div>
+    ${Header()}
+    <main>
+      visualization page
+      ${chartContainer}
+    </main>
   </div>`
 
 }

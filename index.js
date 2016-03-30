@@ -9,7 +9,7 @@ document.body.appendChild(element)
 
 var router = createRouter({
   '/': homePage,
-  '/cash-flow': visPage
+  '/vis': visPage
 }, {
   location: 'hash'
 })
