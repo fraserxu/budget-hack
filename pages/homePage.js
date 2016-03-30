@@ -18,10 +18,6 @@ module.exports = function homePage (params, done) {
   d3.csv('./data/dataset.csv', function (err, data) {
     if (err) return done(err)
 
-    var lists = data.map(function (d) {
-      return yo`${list(d)}`
-    })
-
     // var titles = data.map(function (d) {
     //   return d['Data Title']
     // })
@@ -48,7 +44,12 @@ module.exports = function homePage (params, done) {
         <h4>Understanding the city budget by visualizing data, providing a forum for dialogue, and sharing essential information about the budget process.</h4>
         <img src='http://openbudgetoakland.org/images/process.png' />
         <ul>
-          ${lists}
+          ${data.map(function (d) {
+            return yo`<li class="${styles.list}">
+              <a href="${d['Data Source URL']}">${d['Data Title']}</a>
+              <span>${d['Release Date ']}</span>
+            </li>`
+          })}
         </ul>
       </main>
       ${Footer()}
