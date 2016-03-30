@@ -1,0 +1,171 @@
+Data Title,Data Description,Release Date ,Format,Data Source URL,Comments
+State Capital Program 2015-16,"This dataset provides information about capital programs and projects currently underway, those where work will commence in 2015-16 and a list of those expected to be completed in 2015-16 for each department and government controlled entity.",5/5/2015,XLXS,http://www.dtf.vic.gov.au/files/c30ad6e4-ffee-4e45-9319-a48b00a3dfea/2015-16-State-Capital-Program.xlsx,"This lists projects that are currently underway or those that will commence in 2015-16 (as well as those projects that are expected to be completed in 2015/16)
+Over 1000 Projects
+THIS RELATES TO CHAPTER 2 IN BUDGET PAPER 4 DOCUMENT"
+State Taxation Revenue - annual 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",High level view - no granularity
+State Taxation Revenue - quarterly 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/45e03bbf-dc99-4c39-b9c6-a48b00a61e28/TaxationRevenueQtrlyGG.xlsx
+
+",12 year view of Taxation Revenue (high level view - not granular)
+Net Infrastructure Investment 2015-16,"This dataset provides historical data for net infrastructure investment in the general government sector.
+
+Net infrastructure investment includes the net purchases of property, plant and equipment and net contributions to other sectors of government, such as the public non-financial corporations sector.
+
+It does not include assets acquired under finance lease arrangements.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/80c2ca01-3c9a-4f1d-a7b1-a48b010d961d/Net-Infrastructure-Investment-GG.xlsx
+",High level view - no granularity
+Net Financial Liabilities 2015-16,"This dataset provides historical data on the net financial liability of the general government sector.
+
+Net financial liabilities are the total liabilities less financial assets, other than equity in public non-financial corporations and public financial corporations. This measure is broader than net debt as it includes significant liabilities, other than borrowings e.g. accrued employee liabilities such as superannuation and long service leave entitlements",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/523f942c-54c5-4542-91ab-a48b010de070/Net-Financial-Liability-GG.xlsx
+",12 year view of Taxation Revenue (high level view - not granular)
+Net Debt 2015-16,"This dataset provides historical data on the net debt of the general government sector.
+
+Net debt equals sum of deposits held, advances received, government securities, loans and other borrowing less the sum of cash and deposits, advances paid and investments, loans and placements.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/aed2fedb-b08e-4225-88a9-a48b010e18f1/Net-Debt-GG.xlsx
+
+",Tracks 30 year of net debt - (high level view - not granular)
+Cash Flow Aggregates 2015-16,"This statement provides historical data for the cash flow aggregates - cash receipts, cash payments and net cash flows.
+
+This information has been extracted from the cash flow statement series.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au /files/c2c903cd-8a04-4e98-99b8-a48b010e74ca/Cash-Flow-Statements-Aggregates-GG.xlsx
+
+",Tracks 20 years of cash flow - (high level view - not granular)
+Operating Statement Aggregates 2015-16,"This statement provides historical data for the operating statement aggregates - income from transactions, expenses from transactions and net result from transactions",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/ffb3cdc0-180c-4552-9d94-a48b010ec146/Operating-Statement-Aggregates-GG.xlsx
+
+",Tracks 20 years of operating expenditure - (high level view - not granular)
+Whole of State Consolidated Statement of Changes in Equity 2015-16,This dataset contains the whole of State statement of changes in equity from 2007-08.,5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/42b8e377-aa7a-4835-a5f0-a48b00a97f64/Consolidated-SoV-Statement-of-Changes-in-Equity.xlsx
+",High level view - no granularity
+Whole of State Consolidated Cash Flow Statement 2015-16,This dataset contains the whole of State consolidated statement of cash flows from 2007-08.,5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/1f5fdffd-3a47-4176-8b01-a48b00aab43c/Consolidated-SoV-Cash-Flow-Statement.xlsx
+
+",High level view - no granularity
+Whole of State Consolidated Balance Sheet 2015-16,This dataset contains the whole of State consolidated balance sheet from 30 June 2008.,5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/8874685a-de9c-4637-9e75-a48b00ab1852/Consolidated-SoV-Balance-Sheet.xlsx
+",High level view - no granularity
+Whole of State Consolidated Comprehensive Operating Statement 2015-16,This Statement contains the whole of State consolidated comprehensive operating statement from 2007-08.,5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/ea63b9a5-4856-4419-9c73-a48b00aa4a4f/Consolidated-SoV-Comprehensive-Operating-Statement.xlsx
+",High level view - no granularity
+Consolidated Government Purpose Classification Data - General Government Sector 2015-16,"This dataset contains general government sector operating expenses, sourced from Australian Bureau of Statistics historical data, classified by government purpose.
+The underlying data from 1961-62 to 1997-98 represent a conversion from the original cash series to an accruals basis by estimating depreciation and superannuation expenses based on statistical modelling.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au /files/35f37b45-1d69-4acd-88e8-a48b010f32df/Consolidated-GG-Expenses-by-GPC.xlsx
+
+",
+Consolidated Statement of Changes in Equity - General Government Sector 2015-16,This dataset contains statement of changes in equity for the general government sector. The statement presents reconciliations of non-owner and owner changes in equity from opening balances at the beginning of the reporting period to the closing balances at the end of the reporting period. ,5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/ca464d3a-102f-4235-91eb-a48b00aeed9c/Consolidated-GG-Statement-of-Changes-in-Equity.xlsx
+
+",High level view - no granularity
+Consolidated Cash Flow Statement - General Government Sector 2015-16,"The Cash Flow Statement shows the trends in general government sector aggregate cash flows over the period 1986-87 to 2018-19. This table of historical data has been compiled as far as possible on an AAS basis, and from 2004-05 onwards, is consistent with the AASB 1049 cash flow statement presentation.  The data from 1997-98 include the transactions of government schools and arts institutions on a gross operating basis, as well as the full trading operations of TAFE institutes and hospitals, nursing homes and ambulances. Although this expanded coverage does not materially influence the net operating result for the general government sector, it does significantly increase the inflows and outflows presented in the cash flow statement. ",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/071fe498-a58a-4da8-858b-a48b010f8579/Consolidated-GG-Cash-Flow-Statement.xlsx
+
+",High level view - no granularity
+Consolidated Balance Sheet - General Government Sector 2015-16,This spreadsheet provides historical data for the balance sheet. This information is consistent with AASB 1049 Whole of Government and General Government Sector Financial Reporting. The Balance Sheet shows the general government sector net debt and net financial liabilities from 2005 and is presented in compliance with AASB 1049.,5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/5054cbcb-de87-4d67-90f9-a48b010fc934/Consolidated-GG-Balance-Sheet.xlsx
+",High level view - no granularity
+Other Taxes (Fire Services Property Levy) 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Motor Vehicle Taxes 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Insurance Taxes 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Gambling Taxes 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Land Transfer Duty 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Land Tax 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Payroll Tax 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Total Tax Revenue 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Current Forecasts Overview 2015-16,"Taxation revenue is revenue received from the State’s taxpayers and includes payroll tax, land tax, duties levied principally on conveyances and land transfers, gambling taxes, insurance duty, fire services property levy, motor vehicle taxes and other taxes including congestion levy, metropolitan improvement levy and so on.
+The State’s taxation revenue is forecast by a process that involves application of DTF’s economic forecasts, where there is a relationship between taxation revenue and economic variables; and use of forward indicators, unpublished revenue data and qualitative information from liaison with relevant stakeholders.
+This enables an assessment of economic and other factors influencing the tax bases from which taxes are sourced e.g. for payroll tax, an assessment of the outlook for employment.
+Where necessary, adjustment factors are used to account for other trends or events not captured by the model, such as impact of economic shocks or policy stimulus.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d82758ff-f6f7-4ab5-953b-a48b00a6b392/TaxationRevenueGG.xlsx
+",Multi year view of tax revenue - (high level view - not granular)
+Annual Population Growth 2015-16,"The Department of Treasury and Finance (DTF) monitors economic conditions in the Victorian economy and prepares forecasts of the main economic indicators of those conditions twice yearly for the current and four-ensuing years (the out-years). The economic forecasts underpin the Government's fiscal outlook presented in the Budget and Budget Update.
+The key economic indicators forecast growth in real gross state product (GSP) and the level of nominal GSP; growth in employment and the unemployment rate; growth in wages; growth in consumer prices (the CPI) and population growth.
+For further information refer to the Macroeconomic indicators methodology for making forecasts of macro-economic indicators.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/44f4657e-b4be-4fb5-a59b-a48b00b7fa88/2015-16-Budget-MacroeconomicIndicators.xlsx
+",Multi year view of macroeconomic idicators - (high level view - not granular)
+Growth in Wage Price Index 2015-16,"The Department of Treasury and Finance (DTF) monitors economic conditions in the Victorian economy and prepares forecasts of the main economic indicators of those conditions twice yearly for the current and four-ensuing years (the out-years). The economic forecasts underpin the Government's fiscal outlook presented in the Budget and Budget Update.
+The key economic indicators forecast growth in real gross state product (GSP) and the level of nominal GSP; growth in employment and the unemployment rate; growth in wages; growth in consumer prices (the CPI) and population growth.
+For further information refer to the Macroeconomic indicators methodology for making forecasts of macro-economic indicators.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/44f4657e-b4be-4fb5-a59b-a48b00b7fa88/2015-16-Budget-MacroeconomicIndicators.xlsx
+",Multi year view of macroeconomic idicators - (high level view - not granular)
+Growth in Consumer Price Index 2015-16,"The Department of Treasury and Finance (DTF) monitors economic conditions in the Victorian economy and prepares forecasts of the main economic indicators of those conditions twice yearly for the current and four-ensuing years (the out-years). The economic forecasts underpin the Government's fiscal outlook presented in the Budget and Budget Update.
+The key economic indicators forecast growth in real gross state product (GSP) and the level of nominal GSP; growth in employment and the unemployment rate; growth in wages; growth in consumer prices (the CPI) and population growth.
+For further information refer to the Macroeconomic indicators methodology for making forecasts of macro-economic indicators.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/44f4657e-b4be-4fb5-a59b-a48b00b7fa88/2015-16-Budget-MacroeconomicIndicators.xlsx
+",Multi year view of macroeconomic idicators - (high level view - not granular)
+Unemployment Rate 2015-16,"The Department of Treasury and Finance (DTF) monitors economic conditions in the Victorian economy and prepares forecasts of the main economic indicators of those conditions twice yearly for the current and four-ensuing years (the out-years). The economic forecasts underpin the Government's fiscal outlook presented in the Budget and Budget Update.
+The key economic indicators forecast growth in real gross state product (GSP) and the level of nominal GSP; growth in employment and the unemployment rate; growth in wages; growth in consumer prices (the CPI) and population growth.
+For further information refer to the Macroeconomic indicators methodology for making forecasts of macro-economic indicators.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/44f4657e-b4be-4fb5-a59b-a48b00b7fa88/2015-16-Budget-MacroeconomicIndicators.xlsx
+",Multi year view of macroeconomic idicators - (high level view - not granular)
+Employment Growth 2015-16,"The Department of Treasury and Finance (DTF) monitors economic conditions in the Victorian economy and prepares forecasts of the main economic indicators of those conditions twice yearly for the current and four-ensuing years (the out-years). The economic forecasts underpin the Government's fiscal outlook presented in the Budget and Budget Update.
+The key economic indicators forecast growth in real gross state product (GSP) and the level of nominal GSP; growth in employment and the unemployment rate; growth in wages; growth in consumer prices (the CPI) and population growth.
+For further information refer to the Macroeconomic indicators methodology for making forecasts of macro-economic indicators.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/44f4657e-b4be-4fb5-a59b-a48b00b7fa88/2015-16-Budget-MacroeconomicIndicators.xlsx
+",Multi year view of macroeconomic idicators - (high level view - not granular)
+Level of Nominal Gross State Product 2015-16,"The Department of Treasury and Finance (DTF) monitors economic conditions in the Victorian economy and prepares forecasts of the main economic indicators of those conditions twice yearly for the current and four-ensuing years (the out-years). The economic forecasts underpin the Government's fiscal outlook presented in the Budget and Budget Update.
+The key economic indicators forecast growth in real gross state product (GSP) and the level of nominal GSP; growth in employment and the unemployment rate; growth in wages; growth in consumer prices (the CPI) and population growth.
+For further information refer to the Macroeconomic indicators methodology for making forecasts of macro-economic indicators.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/44f4657e-b4be-4fb5-a59b-a48b00b7fa88/2015-16-Budget-MacroeconomicIndicators.xlsx
+",Multi year view of macroeconomic idicators - (high level view - not granular)
+Parliament financial statements 2015-16,"The financial reports for Parliament assist assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/fb69cce0-b2dd-472c-9ef6-a48b00e285a7/Parliament_VAGOfinancialstatements2015-16.xlsx
+",
+Department of Treasury and Finance financial statements 2015-16,"The financial reports for the department assist assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/4078e490-5710-405a-9eab-a48b00e3c75a/DepartmentofTresuryandFinancefinancialstatements2015-16.xlsx
+
+",
+Department of Justice and Regulation financial statements 2015-16,"The financial reports for the department assist assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/7bef184e-a913-42b2-9aa8-a48b00e9dc13/DepartmentofJusticeandRegulationfinancialstatements2015-16.xlsx
+
+",
+Courts financial statements 2015-16,"The financial reports for the Courts assists assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/0b908ae0-1944-4d9d-aa45-a48b00e50bcd/Courtsfinancialstatements2015-16.xlsx
+",
+Department of Premier and Cabinet Financial Statements 2015-16,"The financial reports for the department assists assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/2b8faa22-5423-42d5-9fb8-a48b00e40b28/DepartmentofPremierandCabinetfinancialstatements2015-16.xlsx
+",
+"Department of Economic Development, Jobs, Transport and Resources Financial Statements 2015-16","The financial reports for the department assist assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/0d762dd9-22f1-4045-89cf-a48b00e4c472/DepartmentofEconomicDevelopmentJobsTransportandResourcesfinancialstatements2015-16.xlsx
+
+",
+"Department of Environment, Land, Water and Planning Financial Statements 2015-16","The financial reports for the department assist assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/c1516104-22f3-473b-936d-a48b00e4819c/DepartmentofEnvironmentLandWaterandPlanningfinancialstatements2015-16.xlsx
+",
+Department of Health and Human Services Financial Statements 2015-16,"The financial reports for the department assist assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/491f57e2-d437-4fbe-b8a1-a48b00e45eb6/DepartmentofHealthandHumanServicesfinancialstatements2015-16.xlsx
+
+",
+Department of Education and Training Financial Statements 2015-16,"The financial reports for the department assist assessments of forecast financial performance, and its use of the parliamentary authority for resources.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/e02e7dde-ea57-42e8-8cea-a48b00e49ba1/DepartmentofEducationandTrainingfinancialstatements2015-16.xlsx
+",
+Parliament and VAGO Output performance Measures 2015-16,"Performance measures cover areas related to funding to support:
+- Parliament's delivery of services through the Legislative Assembly, Legislative Council, Parliamentary Investigatory Committees and  Parliamentary Services
+- VAGO's delivery of audit reports on financial statements and parliamentary reports and services. ",5/5/2015,XLXS,"http://www.dtf.vic.gov.au//files/960b9caa-96a4-4288-935f-a48b00ba547a/ParliamentVictorianAuditorGeneralsOfficeOutputPerformanceMeasures2015-16.xlsx
+",
+Department of Treasury and Finance Output Performance Measures 2015-16,"DTF performance measures cover areas related to funding for a range of services delivered by the department including providing the Government with economic, financial and resource management policy advice to assist the Government in delivering its policy outcomes.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/516d46a3-15e5-402f-ae0d-a48b00bb50de/DepartmentofTreauryandFinanceOutputPerformanceMeasures2015-16.xlsx
+
+",
+Department of Justice and Regulation Output Performance Measures 2015-16,"DJR performance measures cover areas related to funding for a range of services provided by the department to deliver high-quality services to Victorians and support a safe, just, innovative and thriving Victoria.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/157db1a3-7736-4339-9620-a48b00bbf5d4/DepartmentofJusticeandRegulationOutputPerformanceMeasures2015-16.xlsx
+",
+Courts Output Performance Measures 2015-16,"Courts performance measures cover areas related to funding to provide, or arrange for the provision of, administrative facilities and services to the courts, the Victorian Civil and Administrative Tribunal (VCAT) and the Judicial College of Victoria (JCV).",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/2ac2a3c4-52f5-4035-b26b-a48b00c12e9a/CourtsOutputPerformanceMeasures2015-16.xlsx
+",
+Department of Premier and Cabinet Output Performance Measures 2015-16,"DPC performance measures cover areas related to funding to support the department's role in leading the Victorian public service, advising government on emerging policy issues and reviewing the impact of government decisions.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/fb0df07b-53e5-4ef6-adcf-a48b00bb9aa9/DepartmentofPremierandCabinetOutputPerformanceMeasures2015-16.xlsx
+",
+"Department of Economic Development, Jobs, Transport and Resources Output Performance Measures 2015-16",DEDJTR performance measures cover areas related to funding for a range of services provided by the department to create conditions to sustainably develop the Victorian economy and grow employment.,5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/64f0bebd-6082-46fd-93fb-a48b00c0dfca/DepartmentofEconomicDevelopmentJobsTransportandResourcesOutputPerformanceMeasures2015-16.xlsx
+",
+"Department of Environment, Land, Water and Planning Output Performance Measures  2015-16","DELWP performance measures cover areas related to funding for a range of services provided by the department to create liveable, inclusive and sustainable communities. ",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/d562808d-bf5c-4b9e-aabe-a48b00bc7a08/DepartmentofEnvironmentLandWaterandPlanningOutputPerformanceMeasures2015-16.xlsx
+",
+Department of Health and Human Services Output Performance Measures 2015-16,"DHHS performance measures cover areas related to funding for a range of services provided by the department to develop and deliver policies, programs and services that support and enhance the wellbeing of all Victorians.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/e9c98887-4709-44d1-b269-a48b00bc442e/DepartmentofHealthandHumanServicesOutputPerformanceMeasures2015-16.xlsx
+",
+Department of Education and Training Output Performance Measures 2015-16,"DET performance measures cover areas related to funding for a range of services provided by the department including learning and development support and resources for all Victorians, from birth through to adulthood.",5/5/2015,XLXS,"http://www.dtf.vic.gov.au/files/6bf71db0-f5d5-48fe-8ad2-a48b00bd2f4a/DepartmentofEducationandTrainingOutputPerformanceMeasures2015-16.xlsx
+",
