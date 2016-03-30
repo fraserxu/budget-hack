@@ -8,7 +8,6 @@ var Header = require('../components/header')
 var Footer = require('../components/footer')
 
 function list (data) {
-  console.log('data', data)
   return yo`<li class="${styles.list}">
     <a href="${data['Data Source URL']}">${data['Data Title']}</a>
     <span>${data['Release Date ']}</span>
@@ -60,10 +59,6 @@ module.exports = function homePage (params, done) {
 }
 
 var styles = module.exports.styles = csjs`
-  .main {
-    padding-bottom: 200px;
-  }
-
   .list {
     display: flex;
     justify-content: space-between;

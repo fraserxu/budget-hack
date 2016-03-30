@@ -27,6 +27,7 @@ a {
 main {
   max-width: 970px;
   margin: 0 auto;
+  padding-bottom: 200px;
 }
 
 ul {
