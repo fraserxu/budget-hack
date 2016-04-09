@@ -63,3 +63,18 @@ a:hover, a:focus {
 .link:hover {
   stroke-opacity: .5;
 }
+
+#bar {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#bar div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+

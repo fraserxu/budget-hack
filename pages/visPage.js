@@ -5,18 +5,26 @@ var csjs = require('csjs')
 var Header = require('../components/header')
 var Footer = require('../components/footer')
 var createChart = require('../components/sankey')
+var createBar = require('../components/bar')
 
 module.exports = function homePage () {
   var chartContainer = document.createElement('div')
   chartContainer.setAttribute('id', 'chart')
 
+  var barContainer = document.createElement('div')
+  barContainer.setAttribute('id', 'bar')
+
   onload(chartContainer, function () {
     createChart('#chart')
+    createBar('#bar')
   })
 
   return yo`<div>
     ${Header()}
     <main>
+      <section>
+        <h3>Consolidated GG Cash Flow Statement</h3>
+      </section>
       ${chartContainer}
       <section class="${styles.description}">
         <small>
@@ -37,6 +45,11 @@ module.exports = function homePage () {
                 <li>1998-99: sale of the remainder of the electricity businesses ($361 million), gas businesses ($4 690 million), Victorian Plantations Corporation ($550 million), Aluvic ($401 million), V/Line Freight ($20 million), offset by a special payment to reduce the State's unfunded superannuation liabilities ($2 574 million).</li>
               </ul>
             </li>
+          </ul>
+          <section>
+            ${barContainer}
+          </section>
+          <ul>
             <li>(c)These items are inclusive of goods and services tax</li>
             <li>(d) 2012-13 comparative cash flows have been restated to more accurately reflect the classification of interest cash flows.</li>
             <li>(e) 2012-13 comparative cash flows have been restated to reflect the reallocation of investments sold but not yet settled.</li>
@@ -52,6 +65,7 @@ module.exports = function homePage () {
           </ul>
         </p>
       </section>
+
     </main>
     ${Footer()}
   </div>`

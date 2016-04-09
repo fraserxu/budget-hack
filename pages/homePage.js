@@ -35,14 +35,19 @@ module.exports = function homePage (params, done) {
     // var autoInput = document.createElement('input')
     // autoInput.setAttribute('id', 'auto-input')
 
-    // onload(autoInput, function () {
-    // })
+    // // onload(autoInput, function () {
+    // // })
 
     var element = yo`<div>
       ${Header()}
       <main class="${styles.main}">
         <h4>Understanding the city budget by visualizing data, providing a forum for dialogue, and sharing essential information about the budget process.</h4>
         <img src='http://openbudgetoakland.org/images/process.png' />
+        <div>
+          <small>
+            Source: OpenSpending
+          </small>
+        </div>
         <ul>
           ${data.map(function (d) {
             return yo`<li class="${styles.list}">
